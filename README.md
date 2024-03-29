@@ -32,6 +32,9 @@ Analisa marketing ini ditunjukan untuk jajaran Manajer Marketing.
 1. Dashboard terdiri dari berbagai parameter/metrics yang membantu manajer membuat keputusan untuk meningkatkan performa bisnis.
 1. Menjawab semua pertanyaan yang ditanyakan oleh manajer melalui visualisasi.
 
+**DISCUSSION FLOW**
+![](1.drawio.png)
+
 **Data Description :**
 
 **Data utama yang digunakan untuk analisa:**
