@@ -66,27 +66,27 @@ df = pd.read\_csv('/content/salesforcourse.csv')
 
 Selanjutnya, kita akan mengeksplorasi dataset untuk mendapatkan gambaran tentang strukturnya dan isinya. Kita dapat menggunakan fungsi seperti head(), info(), dan describe() untuk melihat beberapa baris pertama, informasi tentang kolom, dan statistik ringkasan masing-masing.
 
-![](Aspose.Words.5f1f9176-e325-43c0-82ef-8437bc0faa4d.002.png)Menampilkan elemen-elemen teratas dari sebuah struktur data![](Aspose.Words.5f1f9176-e325-43c0-82ef-8437bc0faa4d.003.png)informasi data![](Aspose.Words.5f1f9176-e325-43c0-82ef-8437bc0faa4d.004.png)ringkasan statistik deskriptif dari dataset numerik
+![](Aspose.Words.5f1f9176-e325-43c0-82ef-8437bc0faa4d.002.png) [](Aspose.Words.5f1f9176-e325-43c0-82ef-8437bc0faa4d.003.png) [](Aspose.Words.5f1f9176-e325-43c0-82ef-8437bc0faa4d.004.png)
 
 3\. Data cleaning:
 
 Mengatasi nilai yang hilang adalah bagian penting dari pembersihan data. Kita akan menggunakan metode seperti isnull(), sum(), dan fillna() untuk mengidentifikasi dan menangani nilai yang hilang dengan tepat.sebelum melakukan cleaning data kita harus cek missing value dan cek duplikasi data.
 
-![](Aspose.Words.5f1f9176-e325-43c0-82ef-8437bc0faa4d.005.png)cek missing value dan cek duplikasi data.
+![](Aspose.Words.5f1f9176-e325-43c0-82ef-8437bc0faa4d.005.png)
 
 dari gambar diatas bisa dilihat bawah terdapat missing value pada kolom column1 maka kita drop 1 kolom semua saja sedangkan untuk missing value yang lain kita drop juga. maka hasilnya seperti gambar di bawah ini.
 
-![](Aspose.Words.5f1f9176-e325-43c0-82ef-8437bc0faa4d.006.png)cleaning missing value
+![](Aspose.Words.5f1f9176-e325-43c0-82ef-8437bc0faa4d.006.png)
 
 4\. Outlier Data Dan Karelasi Data
 
 Outlier data adalah nilai yang signifikan berbeda dari mayoritas data dalam dataset, Identifikasi outlier penting karena dapat mempengaruhi analisis.
 
-![](Aspose.Words.5f1f9176-e325-43c0-82ef-8437bc0faa4d.007.png)profit dan country
+![](Aspose.Words.5f1f9176-e325-43c0-82ef-8437bc0faa4d.007.png)
 
 sementara korelasi data menggambarkan hubungan antara variabel.korelasi membantu memahami hubungan antar variabel. Meskipun korelasi memberikan wawasan, perlu diingat bahwa tidak selalu menunjukkan sebab-akibat, dan evaluasi lebih lanjut bisa diperlukan untuk pemahaman yang lebih dalam.
 
-![](Aspose.Words.5f1f9176-e325-43c0-82ef-8437bc0faa4d.008.png)korelasi setiap data
+![](Aspose.Words.5f1f9176-e325-43c0-82ef-8437bc0faa4d.008.png)
 
 **TABLEAU**
 
