@@ -26,6 +26,9 @@ Analisa marketing ini ditunjukan untuk jajaran Manajer Marketing.
 
 4\. bagaimana pesentase gender pada data profit?
 
+5\. apakah perbedaan tempat terjadinya transaksi mempengaruhi profit?
+
+
 **Goals:**
 
 1. Membuat dashboard yang akan ditampilkan ke manajer sehingga dapat mengurangi waktu yang lama.
