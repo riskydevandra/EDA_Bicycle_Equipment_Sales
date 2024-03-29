@@ -144,6 +144,10 @@ Dari analisis gender pada data profit, terlihat bahwa persentase pria/wanita dar
 
 Analisis menunjukkan perbedaan pendapatan yang signifikan antara lokasi transaksi. Untuk total profit, Jerman adalah yang terbesar. Artinya *Jerman mendapat keuntungan* lebih banyak untuk setiap item atau setiap transaksi.
 
+**Tampilan dashboard**
+![](dashboard.png)
+![](dashboard2.png)
+
 **RECOMENDASI**
 
 Berdasarkan hasil analisis EDA penjualan perlengkapan sepeda, berikut beberapa rekomendasi untuk meningkatkan efisiensi iklan dan profit perusahaan:
